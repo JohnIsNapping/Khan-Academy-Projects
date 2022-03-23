@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Spin-off of "Project: Travel webpage"</title>
+        <style>
+            body{
+                background-color:rgb(217, 213, 217);
+            }
+            h1{
+                color:rgb(0, 0, 0);
+                text-align:center;
+            }
+            #bagan{
+                
+                color:rgb(0, 50, 250);
+            }
+            h2{
+                color:rgb(171, 0, 0);
+            }
+            .img{
+                text-align:center;
+            }
+            .famous-sites{
+                color:rgb(252, 130, 0);
+            }
+            #conclusion{
+                background-color:rgb(255, 255, 71);
+            }
+        </style>
+    </head>
+    
+    <body>
+    
+        <h1>A Must-Visit place in Asia</h1>
+        <p><br><br><br></p>
+        
+        <p>If you are looking for a place to visit in Asia,<strong id="bagan"> Bagan</strong> is a place that will meet your expectations. 
+        </p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bagan_Sunset.jpg/450px-Bagan_Sunset.jpg" alt="sunset bagan" width="560" >
+        
+        <h1>Why you should visit Bagan</h1>
+        <p><br><br><br></p>
+        
+        <h2>Architecture</h2>
+        <p><br></p>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/P1130180_filtered_Panorama_s.jpg/1665px-P1130180_filtered_Panorama_s.jpg" alt="Bagan Plains with the Dhammayangyi on the left" width="560" height="300">
+        
+        <p class="img">
+        Bagan Plains with the Dhammayangyi on the left
+        </p>
+        
+        <p> <br> </p>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/The_plains_of_Bagan_%2802%29.jpg" alt="Bagan Plains, as seen from across the Irrawaddy river" width="560" height="300">
+        
+        <p class="img">
+        Bagan Plains, as seen from across the Irrawaddy river
+        </p>
+        
+        <p><br>
+        Bagan formerly known as ‘<strong><em>Pagan</em></strong>’ is an ancient city located in the Mandalay Region of Myanmar (Burma).<br><br>
+        
+        Bagan stands out for not only the sheer number of religious edifices of Myanmar but also the magnificent architecture of the buildings, and their contribution to Burmese temple design.<strong><em> The artistry of the architecture of pagodas in Bagan proves the achievement of Myanmar craftsmen in handicrafts</em></strong>. The Bagan temple falls into one of two broad categories: the stupa-style solid temple and the gu-style hollow temple.<br><br>
+        
+        The shape and construction of each building is highly significant in Buddhism with each component part taking on spiritual meaning.<br><br>
+
+From the <strong><em>9th</em></strong> to <strong><em>13th</em></strong> centuries, <strong><em>the city was the capital of the Kingdom of Pagan</em></strong>, the first kingdom to unify the regions that would later constitute modern Myanmar.<br><br>
+
+This kingdom was the first to unify the area that is now Myanmar, establishing <strong><em>the Burmese culture and ethnicity</em></strong>, as well as <strong><em>Theravada Buddhism</em></strong>, in the region.<br><br>
+
+Over this period of rule, as the city and kingdom grew in influence and stature, <strong><em>over 10,000 temples were built</em></strong> on the plains surrounding the capital next to the Irrawaddy River.<br><br>
+
+Today, seven centuries later, <strong><em>approximately twenty-two hundred remain standing.</em></strong>
+        </p>
+        
+        <p><br><br><br></p>
+        <h2>Notable cultural sites</h2>
+        <p><br></p>
+        <ul>
+        
+            <li class="famous-sites">Ananda Temple</li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bagan%2C_Myanmar%2C_Ananda_Temple.jpg/180px-Bagan%2C_Myanmar%2C_Ananda_Temple.jpg" width="500">
+            <p>
+            One of the most famous temples in Bagan; 51 m (167 ft) tall
+            </p>
+            
+            <li class="famous-sites">Bupaya Pagoda </li>
+            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Pagan-Buphaya-pagoda-Nov-2004-00.JPG/180px-Pagan-Buphaya-pagoda-Nov-2004-00.JPG" width="500">
+            <p>
+               In Pyu style; original 9th century pagoda destroyed by the 1975 earthquake; completely rebuilt, now gilded 
+            </p>
+            
+            <li class="famous-sites">Dhamayangyi Temple </li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bagan%2C_Myanmar%2C_Dhammayangyi_Temple.jpg/180px-Bagan%2C_Myanmar%2C_Dhammayangyi_Temple.jpg" width="500">
+            <p>
+               Largest of all temples in Bagan
+            </p>
+            
+            <li class="famous-sites">Dhamayazika Pagoda </li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dhamma-Yazaka.JPG/180px-Dhamma-Yazaka.JPG" width="500">
+            <p><br></p>
+            
+            <li class="famous-sites">Gawdawpalin Temple </li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gawdawpalin_Temple_Bagan_Myanmar.jpg/180px-Gawdawpalin_Temple_Bagan_Myanmar.jpg" width="500">
+            <p><br> </p>
+            
+            <li class="famous-sites">Gubyaukgyi Temple (Myinkaba) </li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Gubyaukgyi-Bagan-Myanmar-02-gje.jpg/180px-Gubyaukgyi-Bagan-Myanmar-02-gje.jpg" width="500">
+            <p><br></p>
+            
+            <li class="famous-sites">Htilominlo Temple </li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bagan%2C_Myanmar%2C_Htilominlo_Temple.jpg/180px-Bagan%2C_Myanmar%2C_Htilominlo_Temple.jpg" width="500">
+            <p>
+            46 m (151 ft), 3-story temple
+            </p>
+            
+            <li class="famous-sites">Lawkananda Pagoda </li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lawkananda-Bagan-Myanmar-01-gje.jpg/180px-Lawkananda-Bagan-Myanmar-01-gje.jpg" width="500">
+            <p><br></p>
+            
+            <li class="famous-sites">Mahabodi Temple </li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Mahabodhi_Temple%2C_Bagan.jpg/180px-Mahabodhi_Temple%2C_Bagan.jpg" width="500">
+            <p>
+                Smaller replica of the Mahabodhi Temple in Bodh Gaya   
+            </p>
+            
+            <li class="famous-sites">Manuha Temple </li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Manuha.JPG/180px-Manuha.JPG" width="500">
+            <p><br></p>
+            
+            <li class="famous-sites">Mingalazedi Pagoda </li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Mingalazedi-Bagan-Myanmar-02-gje.jpg/240px-Mingalazedi-Bagan-Myanmar-02-gje.jpg" width="500">
+            <p><br></p>
+            
+            <li class="famous-sites">Minyeingon Temple </li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mi_Nyein_Gone-Bagan-Myanmar-06-gje.jpg/180px-Mi_Nyein_Gone-Bagan-Myanmar-06-gje.jpg" width="500">
+            <p><br></p>
+            
+            <li class="famous-sites">Myazedi Inscription </li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Myazedi-Inscription-Burmese.JPG/180px-Myazedi-Inscription-Burmese.JPG" width="500">
+            <p>
+                "Rosetta Stone of Burma" with inscriptions in four languages: Pyu, Old Mon, Old Burmese and Pali   
+            </p>
+            
+            <li class="famous-sites">Nanpaya Temple </li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nanpaya-Bagan-Myanmar-01-gje.jpg/180px-Nanpaya-Bagan-Myanmar-01-gje.jpg" width="500">
+            <p>
+               Hindu temple in Mon style; believed to be either Manuha's old residence or built on the site
+            </p>
+            
+            <li class="famous-sites">Nathlaung Kyaung Temple </li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Nat-Hlaung_Kyaung_Vishnu_Statute.JPG/180px-Nat-Hlaung_Kyaung_Vishnu_Statute.JPG" width="500">
+            <p>
+               Hindu temple
+            </p>
+            
+            <li class="famous-sites">Payathonzu Temple </li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bagan%2C_Hpaya-thon-zu-Group.JPG/180px-Bagan%2C_Hpaya-thon-zu-Group.JPG" width="500">
+            <p>
+               in Mahayana and Tantric-styles
+            </p>
+            
+            <li class="famous-sites">Seinnyet Nyima Pagoda and Seinnyet Ama Pagoda </li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Seinnyet_temple.jpg/180px-Seinnyet_temple.jpg" width="500">
+            <p><br></p>
+            
+            <li class="famous-sites">Shwegugyi Temple </li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Shwegugyi-Bagan-Myanmar-01-gje.jpg/180px-Shwegugyi-Bagan-Myanmar-01-gje.jpg" width="500">
+            <p>
+               Sithu I was assassinated here; known for its arched windows
+            </p>
+            
+            <li class="famous-sites">Shwesandaw Pagoda </li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Shwesandaw_Pagoda_Bagan_Myanmar.jpg/180px-Shwesandaw_Pagoda_Bagan_Myanmar.jpg" width="500">
+            <p>
+               100 m (328 ft) tall without counting the hti spire; Tallest Pagoda in Bagan
+            </p>
+            
+            <li class="famous-sites">Shwesigon Pagoda </li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Shwezigon.jpg/180px-Shwezigon.jpg" width="500">
+            <p><br></p>
+            
+            <li class="famous-sites">Sulamani Temple </li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sulamani_Temple.jpg/180px-Sulamani_Temple.jpg" width="500">
+            <p><br></p>
+            
+            <li class="famous-sites">Tharaba Gate </li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tharaba_Gate.JPG/180px-Tharaba_Gate.JPG" width="500">
+            <p>
+               The only remaining part of the old walls; radiocarbon dated to c. 1020[29]
+            </p>
+            
+            <li class="famous-sites">Thatbyinnyu Temple </li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bagan%2C_Myanmar%2C_Thatbyinnyu_Temple.jpg/180px-Bagan%2C_Myanmar%2C_Thatbyinnyu_Temple.jpg" width="500">
+            <p>
+               66 m (217 ft); Tallest temple in Bagan
+            </p>
+            
+            <li class="famous-sites">Tuywindaung Pagoda </li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tuywindaung_Pagoda.JPG/180px-Tuywindaung_Pagoda.JPG" width="500">
+            <p><br><br><br></p>
+            
+        </ul>
+        
+        
+        <h2>25 best things to do in bagan</h2>
+        <ul>
+            <li>Shop at MBoutik</li>
+            <li>Explore Shwezigon Paya</li>
+            <li>Visit Nan Paya</li>
+            <li>Tour the Archaeological Museum</li>
+            <li>Walk around Nandamannya Paya</li>
+            <li>Visit Dhammayangyi Pahto</li>
+            <li>Shop at Mani-Sithu Market</li>
+            <li>Check out Shwesandaw Paya</li>
+            <li>Tour the Thanakha Gallery</li>
+            <li>Check out Nathlaung Kyaung</li>
+            <li>Take a hot air balloon ride</li>
+            <li>Visit Sulamani Pahto</li>
+            <li>Explore Gawdawpalin Pahto</li>
+            <li>Buy some local art work</li>
+            <li>Walk around Ananda Pahto</li>
+            <li>Eat and shop at the Night Market and Carnival</li>
+            <li>Explore Payathonzu</li>
+            <li>Take a boat trip</li>
+            <li>Visit Lawkananda Paya</li>
+            <li>Admire Htilominlo Pahto</li>
+            <li>Take a cooking class</li>
+            <li>Explore Gubyaukgyi</li>
+            <li>Stop by Tharabar Gate</li>
+            <li>Visit Thatbyinnyu Paht</li>
+            <li>Admire Nagayon</li>
+
+        </ul>
+        
+        <p id="conclusion"><strong><em>I believe Bagan is a worth-visiting place to spent your winter holidays</em></strong></p>
+        
+    </body>
+</html>
+
